@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 ![Bighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bighneshpati&layout=compact)](https://github.com/bighneshpati/github-readme-stats)
+[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
