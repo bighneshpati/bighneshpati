@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 
 
-![Bighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=bighneshpati&theme=radical" />
+![Bighnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&theme=dark)
+
 
