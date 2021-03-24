@@ -22,8 +22,6 @@ Skills: Cyber Security / Machine learning / Deep Learning / NLP / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bighneshpati)  
-
 ![GitHub metrics](https://metrics.lecoq.io/bighneshpati)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bighneshpati)  
