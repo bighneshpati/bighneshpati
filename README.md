@@ -1,6 +1,8 @@
 ### Hi there 👋, This is Bighnesh
 #### I am a Cyber Security Researcher, Machine Learning and Deep Learning enthusiast.
 
+<a href="https://app.daily.dev/bighneshpati"><img src="https://api.daily.dev/devcards/675e7a2b646442d7b252888d5a3f272a.png?r=6aw" width="400" alt="Bighnesh Kumar Pati's Dev Card"/></a>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bighneshpati)  
 An energetic and passionate college student studying B Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology. Aiming to use my knowledge that I have acquired from my coursework to do my best in open source contribution.
 
