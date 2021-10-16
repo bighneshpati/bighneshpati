@@ -1,8 +1,6 @@
 ### Hi there 👋, This is Bighnesh
 #### I am a Cyber Security Researcher, Machine Learning and Deep Learning enthusiast.
 
-<a href="https://app.daily.dev/bighneshpati"><img src="https://api.daily.dev/devcards/675e7a2b646442d7b252888d5a3f272a.png?r=6aw" width="400" alt="Bighnesh Kumar Pati's Dev Card"/></a>
-
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bighneshpati)  
 An energetic and passionate college student studying B Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology. Aiming to use my knowledge that I have acquired from my coursework to do my best in open source contribution. -->
 
@@ -12,7 +10,7 @@ Skills: Machine Learning / Deep Learning / DevOps / Cyber Security
 - 🌱 I’m currently learning Kubernetes, Jenkins. 
 - 💬 Ask me about Deep Learning and DevOps 
 - 😄 Pronouns: He/Him 
-
+<a href="https://app.daily.dev/bighneshpati"><img src="https://api.daily.dev/devcards/675e7a2b646442d7b252888d5a3f272a.png?r=6aw" width="400" alt="Bighnesh Kumar Pati's Dev Card"/></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bighneshpati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bighneshpati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bighnesh-kumar-pati-56a8941a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_.bighnesh._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BighneshPati)  
 
