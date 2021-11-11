@@ -4,7 +4,7 @@
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bighneshpati)  
 An energetic and passionate college student studying B Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology. Aiming to use my knowledge that I have acquired from my coursework to do my best in open source contribution. -->
 
-Skills: Machine Learning / Deep Learning / DevOps / Cyber Security
+Skills: Machine Learning / Deep Learning / DevOps / Cyber Security / NLP
 
 - 🔭 I’m currently working on Eye Disease Detection using Deep Learning and NLP. 
 - 🌱 I’m currently learning Kubernetes, Jenkins. 
