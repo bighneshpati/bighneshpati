@@ -6,7 +6,7 @@ An energetic and passionate college student studying B Tech in Computer Science 
 
 Skills: Machine Learning / Deep Learning / DevOps / Cyber Security / NLP
 
-- 🔭 I’m currently working on Ophthalmic Disease Detection using Deep Learning and NLP. 
+- 🔭 I’m currently working on Ophthalmic Disease Analysis and Detection using Deep Learning and NLP. 
 - 🌱 I’m currently learning Kubernetes, Jenkins. 
 - 💬 Ask me about Deep Learning and DevOps 
 - 😄 Pronouns: He/Him 
