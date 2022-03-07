@@ -2,9 +2,9 @@
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <a href="https://app.daily.dev/bighneshpati"><img src="https://api.daily.dev/devcards/675e7a2b646442d7b252888d5a3f272a.png?r=ra2" width="400" alt="Bighnesh Kumar Pati's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bighneshpati&label=Profile%20views&color=1a1d1f&style=flat-square" alt="bighneshpati" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bighneshpati&label=Profile%20views&color=1a1d1f&style=flat-square" alt="bighneshpati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bighneshpati" alt="bighneshpati" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bighneshpati" alt="bighneshpati" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/bighneshpati" target="blank"><img src="https://img.shields.io/twitter/follow/bighneshpati?logo=twitter&style=for-the-badge" alt="bighneshpati" /></a> </p>
 
