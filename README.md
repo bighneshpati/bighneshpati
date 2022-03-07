@@ -1,28 +1,44 @@
-### Hi there 👋, This is Bighnesh
-#### I am a Cyber Security Researcher, Machine Learning and Deep Learning enthusiast.
+<h1 align="center">Hi 👋, I'm Bighnesh Kumar Pati</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bighneshpati)  
-An energetic and passionate college student studying B Tech in Computer Science and Engineering at Kalinga Institute of Industrial Technology. Aiming to use my knowledge that I have acquired from my coursework to do my best in open source contribution. -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bighneshpati&label=Profile%20views&color=1a1d1f&style=flat-square" alt="bighneshpati" /> </p>
 
-Skills: Machine Learning / Deep Learning / DevOps / Cyber Security / NLP
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bighneshpati" alt="bighneshpati" /></a> </p>
 
-- 🔭 I’m currently working on Ophthalmic Disease Analysis and Detection using Deep Learning and NLP. 
-- 🌱 I’m currently learning Kubernetes, Jenkins. 
-- 💬 Ask me about Deep Learning and DevOps 
-- 😄 Pronouns: He/Him 
+<p align="left"> <a href="https://twitter.com/bighneshpati" target="blank"><img src="https://img.shields.io/twitter/follow/bighneshpati?logo=twitter&style=for-the-badge" alt="bighneshpati" /></a> </p>
 
+- 🔭 I’m currently working on **Kubernetes, Docker, Jenkins, CI/CD**
 
-<a href="https://app.daily.dev/bighneshpati"><img src="https://api.daily.dev/devcards/675e7a2b646442d7b252888d5a3f272a.png?r=6aw" width="400" alt="Bighnesh Kumar Pati's Dev Card"/></a>
+- 🌱 I’m currently learning **Go Lang, Chef, Terraform**
 
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bighneshpati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bighneshpati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bighnesh-kumar-pati-56a8941a1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_.bighnesh._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BighneshPati)  
+- 👯 I’m looking to collaborate on **DevOps, MLOps**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 🤝 I’m looking for help with **Site Reliability Engineering**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bighneshpati)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **DevOps, Kubernetes, Docker**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&count_private=true)  
+- 📫 How to reach me **bighneshpati@gmail.com / 1905603@kiit.ac.in**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/121hE0tA1yFBScLTcfgKZkm1eLzkTPWQY/view?usp=sharing](https://drive.google.com/file/d/121hE0tA1yFBScLTcfgKZkm1eLzkTPWQY/view?usp=sharing)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bighneshpati)  
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-![Profile views](https://gpvc.arturio.dev/bighneshpati)   -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/bighneshpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bighneshpati" height="30" width="40" /></a>
+<a href="https://twitter.com/bighneshpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bighneshpati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bighnesh-kumar-pati-56a8941a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bighnesh-kumar-pati-56a8941a1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bighneshpati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bighneshpati" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bighneshpati&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bighneshpati" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bighneshpati&show_icons=true&hide_border=true&locale=en" alt="bighneshpati" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bighneshpati&theme=dark" alt="bighneshpati" /></p>
+
