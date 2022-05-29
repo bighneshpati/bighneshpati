@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Kubernetes, Docker, Jenkins, CI/CD**
 
-- 🌱 I’m currently learning **Go Lang, Chef, Terraform**
+- 🌱 I’m currently learning **Go Lang, Chef, Terraform, Ansible**
 
-- 👯 I’m looking to collaborate on **DevOps, MLOps**
+- 👯 I’m looking to collaborate on **DevOps**
 
 - 🤝 I’m looking for help with **Site Reliability Engineering**
 
-- 💬 Ask me about **DevOps, Kubernetes, Docker**
+- 💬 Ask me about **DevOps, Kubernetes, Docker, Jenkins, System Administration(Linux, MacOS)**
 
 - 📫 How to reach me **bighneshpati@gmail.com / 1905603@kiit.ac.in**
 
