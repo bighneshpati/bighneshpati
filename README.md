@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bighneshpati" alt="bighneshpati" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/bighnesh_pati" target="blank"><img src="https://img.shields.io/twitter/follow/bighneshpati?logo=twitter&style=for-the-badge" alt="bighneshpati" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bighnesh_pati" target="blank"><img src="https://img.shields.io/twitter/follow/bighnesh_pati?logo=twitter&style=for-the-badge" alt="bighnesh_pati" /></a> </p>
 
 - 🔭 I’m currently working on **Kubernetes, Docker, Jenkins, CI/CD**
 
