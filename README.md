@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bighneshpati@gmail.com / 1905603@kiit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/121hE0tA1yFBScLTcfgKZkm1eLzkTPWQY/view?usp=sharing](https://drive.google.com/file/d/121hE0tA1yFBScLTcfgKZkm1eLzkTPWQY/view?usp=sharing)
+- 📄 Know about my experiences https://www.linkedin.com/in/bighnesh-kumar-pati-56a8941a1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
